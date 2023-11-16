@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P? NewDesignator=IN/OUT
+Change Component Description : Designator=IN/OUT Old Description=Header, 4-Pin New Description=Header, 4-Pin
+1 for out
+2 for Vcc
+3 for Vdd
+4 for GND
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetIN/OUT_1

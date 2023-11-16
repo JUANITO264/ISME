@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=IN
+Change Component Designator: OldDesignator=P? NewDesignator=out
+Added Member To Class: ClassName=PS Member=Component out Header 5

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=+ TP - NewDesignator=IN
+Change Component Designator: OldDesignator=VDD VDD GND VCC VCC NewDesignator=out
+Added Net: Name=NetPOUT_1
+Added Net: Name=NetPSTRAIN_1
+Added Net: Name=NetRV4_2

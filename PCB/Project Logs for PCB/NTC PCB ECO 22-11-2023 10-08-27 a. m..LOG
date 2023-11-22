@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=RV1-2
+Removed Pin From Net: NetName=NetNTC_1 Pin=RV1-3
+Change Component Designator: OldDesignator=out VCC VDD GND NewDesignator=IN/OUT
+Added Component: Designator=RV1(FP-3006P-MFG)
+Add component (AddParameter): Name = "Actuator Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.57mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "3006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "750mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals/Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "750mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "50k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Law"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "5.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.04oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.83mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_1 Pin=RV1-2
+Added Pin To Net: NetName=NetNTC_1 Pin=RV1-3
+Added Net: Name=NetD?_1
+Added Net: Name=NetLM7805_1
+Added Net: Name=NetLM7805_3
+Added Net: Name=NetMO-in_3
+Added Net: Name=NetMO-in_4
+Added Net: Name=NetMO_out_2
+Added Net: Name=NetMO_out_3
+Added Net: Name=NetMO_out_4
+Added Net: Name=NetP_galga_4
+Added Net: Name=NetR9_1
+Added Net: Name=NetR11_2
+Added Net: Name=NetR12_1
+Added Net: Name=NetRV4_2
+Added Net: Name=NetRV5_2
+Added Class: Name=Micro

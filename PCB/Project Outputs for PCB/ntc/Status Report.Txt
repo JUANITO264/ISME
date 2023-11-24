@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
+   Generated File[NTC.GTO]
+   Generated File[NTC.GTS]
+   Generated File[NTC.GTL]
+   Generated File[NTC.GBL]
+   Generated File[NTC.GBS]
+   Generated File[NTC.GBO]
+   Generated File[NTC.GM1]
+   Generated File[NTC.GM]
+   Generated File[NTC.EXTREP]
+   Generated File[NTC.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:16:02 p. m. On 23/11/2023

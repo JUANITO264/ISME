@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\Project Outputs for PCB\Pick Place\Pick Place for STRAIN.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/11/23
+Time:       22:09
+Revision:   520052a9f3de63324c0ed6e56a19ba8ceafe08f6
+Variant:    No variations
+Units used: mm
+
+Designator         Comment       Layer    Footprint    Center-X(mm) Center-Y(mm) Rotation Description                                                         
+"AGND Vout GND +5" "Header 4"    TopLayer HDR1X4       3.3020       -18.6690     270      "Header, 4-Pin"                                                     
+U3                 LF347N        TopLayer N0014A       40.1320      -19.3040     180      "Wide Bandwidth Quad JFET Input Operational Amplifier, 14-pin MDIP" 
+RV5                3296W-1-504LF TopLayer FP-3296W-MFG 31.7500      -15.1130     90       "TRIMMER 500K OHM 0.5W PC PIN TOP"                                  
+RV4                3296W-1-504LF TopLayer FP-3296W-MFG 34.4170      -33.6550     0        "TRIMMER 500K OHM 0.5W PC PIN TOP"                                  
+R14                Res1          TopLayer AXIAL-0.3    33.1470      -25.7810     270      Resistor                                                            
+R13                Res1          TopLayer AXIAL-0.3    36.0680      -7.6200      0        Resistor                                                            
+R12                Res1          TopLayer AXIAL-0.3    46.7360      -14.2240     90       Resistor                                                            
+R11                Res1          TopLayer AXIAL-0.3    29.9720      -25.9080     90       Resistor                                                            
+R10                Res1          TopLayer AXIAL-0.3    48.2600      -24.3840     270      Resistor                                                            
+R9                 Res1          TopLayer AXIAL-0.3    49.7840      -14.2240     90       Resistor                                                            
+"VCC GND VDD out"  "Header 4"    TopLayer HDR1X4       40.6400      -3.9370      180      "Header, 4-Pin"                                                     
+"GND Vout GND V-"  "Header 4"    TopLayer HDR1X4       16.3830      -5.0800      0        "Header, 4-Pin"                                                     
+"Vin GND S- S+"    "Header 4"    TopLayer HDR1X4       16.3830      -34.0360     0        "Header, 4-Pin"                                                     
+LM7805             LM7905CT/NOPB TopLayer NDE0003A     46.2280      -32.6390     180      "3-Terminal Negative Regulator, 3-pin TO-220, Pb-Free"              

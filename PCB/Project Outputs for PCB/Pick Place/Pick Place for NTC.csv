@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\Project Outputs for PCB\Pick Place\Pick Place for NTC.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/11/23
+Time:       22:09
+Revision:   520052a9f3de63324c0ed6e56a19ba8ceafe08f6
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"RV1","3296W-1-504LF","TopLayer","FP-3296W-MFG","65.1460","74.5490","90","TRIMMER 500K OHM 0.5W PC PIN TOP"
+"U2","LF347N","TopLayer","N0014A","87.5030","92.4560","90","Wide Bandwidth Quad JFET Input Operational Amplifier, 14-pin MDIP"
+"U1","LF347N","TopLayer","N0014A","76.2000","77.0890","0","Wide Bandwidth Quad JFET Input Operational Amplifier, 14-pin MDIP"
+"RV3","3006P-1-103LF","TopLayer","FP-3006P-MFG","95.2500","76.8350","270","TRIMMER 10KOHM 0.75W PC PIN SIDE"
+"RV2","3296W-1-504LF","TopLayer","FP-3296W-MFG","86.4870","81.0260","270","TRIMMER 500K OHM 0.5W PC PIN TOP"
+"R8","Res1","TopLayer","AXIAL-0.3","91.1860","70.1040","270","Resistor"
+"R7","Res1","TopLayer","AXIAL-0.3","84.4550","70.1040","90","Resistor"
+"R6","Res1","TopLayer","AXIAL-0.3","87.8840","70.1040","270","Resistor"
+"R5","Res1","TopLayer","AXIAL-0.3","90.4240","81.6610","90","Resistor"
+"R4","Res1","TopLayer","AXIAL-0.3","66.9290","84.9630","90","Resistor"
+"R3","Res1","TopLayer","AXIAL-0.3","82.5500","81.7880","90","Resistor"
+"R2","Res1","TopLayer","AXIAL-0.3","70.1040","77.4700","90","Resistor"
+"R1","Res1","TopLayer","AXIAL-0.3","63.6270","84.8360","90","Resistor"
+"NTC","Thermoresistor","TopLayer","MHDR1X2","66.1670","67.1830","0","Header, 2-Pin"
+"IN/OUT","Header 4","TopLayer","HDR1X4","68.9610","93.0910","180","Header, 4-Pin
+1 for out
+2 for Vcc
+3 for Vdd
+4 for GND"

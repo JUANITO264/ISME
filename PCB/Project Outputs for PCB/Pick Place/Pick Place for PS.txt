@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\Project Outputs for PCB\Pick Place\Pick Place for PS.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/11/23
+Time:       22:09
+Revision:   520052a9f3de63324c0ed6e56a19ba8ceafe08f6
+Variant:    No variations
+Units used: mm
+
+Designator            Comment        Layer    Footprint       Center-X(mm) Center-Y(mm) Rotation Description                       
+D6                    "Diode 1N4004" TopLayer DO-41           36.8300      -22.9870     90       "1 Amp General Purpose Rectifier" 
+D5                    "Diode 1N4004" TopLayer DO-41           48.3870      -9.6520      90       "1 Amp General Purpose Rectifier" 
+C6                    Cap2           TopLayer CAPR5-4X5       44.5770      -18.4150     180      Capacitor                         
+C5                    Cap2           TopLayer CAPR5-4X5       41.0210      -13.8430     180      Capacitor                         
+"VDD VDD GND VCC VCC" "Header 5"     TopLayer HDR1X5          52.7050      -16.1290     270      "Header, 5-Pin"                   
+LM7915                LM7915         TopLayer NDE0003A        44.8310      -24.0030     180      "pin 3 out
+pin 2 in 
+pin 1 GND" 
+LM7815                LM7815         TopLayer FP-NDE0003B-MFG 40.8940      -8.2550      90       "pin 1 in
+pin 2 GND
+pin 3 out"  
+"+ TP -"              "Header 3"     TopLayer HDR1X3          3.3020       -16.1290     90       "Header, 3-Pin"                   
+D4                    "Diode 1N4004" TopLayer DO-41           11.9380      -17.7800     0        "1 Amp General Purpose Rectifier" 
+D3                    "Diode 1N4004" TopLayer DO-41           11.9380      -22.3520     180      "1 Amp General Purpose Rectifier" 
+D2                    "Diode 1N4004" TopLayer DO-41           11.9380      -14.2240     0        "1 Amp General Purpose Rectifier" 
+D1                    "Diode 1N4004" TopLayer DO-41           11.9380      -9.9060      180      "1 Amp General Purpose Rectifier" 
+C4                    Cap            TopLayer RAD-0.3         11.9380      -26.2890     180      Capacitor                         
+C3                    Cap            TopLayer RAD-0.3         11.9380      -5.9690      0        Capacitor                         
+C2                    "Cap Pol1"     TopLayer RB7.6-15        26.6700      -24.3840     90       "Polarized Capacitor (Radial)"    
+C1                    "Cap Pol1"     TopLayer RB7.6-15        26.6700      -8.2550      90       "Polarized Capacitor (Radial)"    

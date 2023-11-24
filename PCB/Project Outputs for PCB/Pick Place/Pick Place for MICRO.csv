@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\Project Outputs for PCB\Pick Place\Pick Place for MICRO.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/11/23
+Time:       22:09
+Revision:   520052a9f3de63324c0ed6e56a19ba8ceafe08f6
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"15 gnd -15","Header 3","TopLayer","HDR1X3","98.8060","34.9250","180","Header, 3-Pin"
+"U5","LF347N","TopLayer","N0014A","98.5520","50.4190","180","Wide Bandwidth Quad JFET Input Operational Amplifier, 14-pin MDIP"
+"ESP-32","ESP32-DEVKIT-V1","TopLayer","MODULE_ESP32_DEVKIT_V1","101.7270","90.5300","0","Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz"
+"R23","Res1","TopLayer","AXIAL-0.3","90.4240","58.9280","270","Resistor"
+"R22","Res1","TopLayer","AXIAL-0.3","104.9020","49.6570","270","Resistor"
+"R21","Res1","TopLayer","AXIAL-0.3","105.0290","59.1820","90","Resistor"
+"R20","Res1","TopLayer","AXIAL-0.3","98.2980","61.5950","180","Resistor"
+"R19","Res1","TopLayer","AXIAL-0.3","90.5510","49.1490","90","Resistor"
+"R18","Res1","TopLayer","AXIAL-0.3","108.7120","42.7990","180","Resistor"
+"R17","Res1","TopLayer","AXIAL-0.3","111.3790","49.5300","270","Resistor"
+"R16","Res1","TopLayer","AXIAL-0.3","86.7410","59.1820","90","Resistor"
+"R15","Res1","TopLayer","AXIAL-0.3","111.5060","59.8170","90","Resistor"
+"IN GND","Header 2","TopLayer","HDR1X2","124.7140","81.6610","90","Header, 2-Pin"
+"IN GND","Header 2","TopLayer","HDR1X2","116.9670","51.6890","270","Header, 2-Pin"
+"INT ADO XCL XDA SDA SCL GND VCC","Header 8","TopLayer","HDR1X8","83.0580","84.8360","270","Header, 8-Pin"
+"AO DO GND VCC","Header 4","TopLayer","HDR1X4","120.0150","101.7270","270","Header, 4-Pin"
+"D10","Diode 1N4004","TopLayer","DO-41","82.9310","67.3100","90","1 Amp General Purpose Rectifier"
+"D9","Diode 1N4004","TopLayer","DO-41","82.9310","53.9750","90","1 Amp General Purpose Rectifier"
+"D8","Diode 1N4004","TopLayer","DO-41","119.8880","75.0570","270","1 Amp General Purpose Rectifier"
+"D7","Diode 1N4004","TopLayer","DO-41","120.0150","88.2650","270","1 Amp General Purpose Rectifier"

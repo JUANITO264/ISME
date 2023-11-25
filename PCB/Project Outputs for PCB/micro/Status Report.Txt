@@ -1,0 +1,21 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
+   Generated File[MICRO_Copper_Signal_Top.gbr]
+   Generated File[MICRO_Copper_Signal_Bot.gbr]
+   Generated File[MICRO_Legend_Top.gbr]
+   Generated File[MICRO_Legend_Bot.gbr]
+   Generated File[MICRO_Soldermask_Top.gbr]
+   Generated File[MICRO_Soldermask_Bot.gbr]
+   Generated File[MICRO_Mechanical_1.gbr]
+   Generated File[MICRO_Profile.gbr]
+   Generated File[MICRO_NPTH_Drill.gbr]
+   Generated File[MICRO_PTH_Drill.gbr]
+   Generated File[MICRO.EXTREP]
+   Generated File[MICRO.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:15:10 a. m. On 25/11/2023

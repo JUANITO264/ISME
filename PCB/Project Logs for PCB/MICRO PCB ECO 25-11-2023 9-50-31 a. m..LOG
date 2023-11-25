@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=4 Pin=R36-2
+Removed Pin From Net: NetName=2 Pin=R38-2
+Removed Pin From Net: NetName=4 Pin=R44-1
+Removed Pin From Net: NetName=2 Pin=R46-1
+Removed Pin From Net: NetName=2 Pin=U4-21
+Removed Pin From Net: NetName=4 Pin=U4-23
+Change Net Name : Old Net Name=2 New Net Name=2x
+Change Net Name : Old Net Name=4 New Net Name=4x
+Added Pin To Net: NetName=2 Pin=R38-2
+Added Pin To Net: NetName=2 Pin=R46-1
+Added Pin To Net: NetName=2 Pin=U4-21
+Added Net: Name=2
+Added Pin To Net: NetName=4 Pin=R36-2
+Added Pin To Net: NetName=4 Pin=R44-1
+Added Pin To Net: NetName=4 Pin=U4-23
+Added Net: Name=4
+Added Member To Class: ClassName=Micro Member=Component U6 ADC0804LCN

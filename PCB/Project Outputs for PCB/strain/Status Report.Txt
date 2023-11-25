@@ -1,19 +1,21 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
-   Generated File[STRAIN.GTO]
-   Generated File[STRAIN.GTS]
    Generated File[STRAIN.GTL]
    Generated File[STRAIN.GBL]
-   Generated File[STRAIN.GBS]
+   Generated File[STRAIN.GTO]
    Generated File[STRAIN.GBO]
+   Generated File[STRAIN.GTS]
+   Generated File[STRAIN.GBS]
    Generated File[STRAIN.GM1]
    Generated File[STRAIN.GM]
+   Generated File[STRAIN.GBR1]
+   Generated File[STRAIN.GBR2]
    Generated File[STRAIN.EXTREP]
    Generated File[STRAIN.REP]
 
 
-Files Generated   : 10
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 11:32:58 p. m. On 23/11/2023
+Finished Output Generation At 7:49:49 p. m. On 24/11/2023

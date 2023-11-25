@@ -1,19 +1,21 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
-   Generated File[PS.GTO]
-   Generated File[PS.GTS]
-   Generated File[PS.GTL]
-   Generated File[PS.GBL]
-   Generated File[PS.GBS]
-   Generated File[PS.GBO]
-   Generated File[PS.GM1]
-   Generated File[PS.GM]
+   Generated File[PS_Copper_Signal_Top.gbr]
+   Generated File[PS_Copper_Signal_Bot.gbr]
+   Generated File[PS_Legend_Top.gbr]
+   Generated File[PS_Legend_Bot.gbr]
+   Generated File[PS_Soldermask_Top.gbr]
+   Generated File[PS_Soldermask_Bot.gbr]
+   Generated File[PS_Mechanical_1.gbr]
+   Generated File[PS_Profile.gbr]
+   Generated File[PS_NPTH_Drill.gbr]
+   Generated File[PS_PTH_Drill.gbr]
    Generated File[PS.EXTREP]
    Generated File[PS.REP]
 
 
-Files Generated   : 10
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 11:44:07 p. m. On 23/11/2023
+Finished Output Generation At 7:52:21 p. m. On 24/11/2023

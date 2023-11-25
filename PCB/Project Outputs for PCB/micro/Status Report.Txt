@@ -1,0 +1,21 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
+   Generated File[MICRO.GTL]
+   Generated File[MICRO.GBL]
+   Generated File[MICRO.GTO]
+   Generated File[MICRO.GBO]
+   Generated File[MICRO.GTS]
+   Generated File[MICRO.GBS]
+   Generated File[MICRO.GM1]
+   Generated File[MICRO.GM]
+   Generated File[MICRO.GBR1]
+   Generated File[MICRO.GBR2]
+   Generated File[MICRO.EXTREP]
+   Generated File[MICRO.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:27:26 p. m. On 24/11/2023

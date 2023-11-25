@@ -1,17 +1,19 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: NTC.GBR   23/11/2023  11:16:01 p. m.
+Gerber File Extension Report For: NTC.GBR   24/11/2023  7:45:47 p. m.
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.GTO                Top Overlay                             
-.GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
-.GBS                Bottom Solder                           
-.GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
-.GM                 Profile                                 
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Mechanical 1                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
 ------------------------------------------------------------------------------------------

@@ -3,7 +3,7 @@ FileName = NTC.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : NTC.GTL
+      File : NTC_Copper_Signal_Top.gbr
 
     Adding Layer      : Top Layer
 
@@ -11,35 +11,19 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : NTC.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
     D10
     D11
     D12
     D13
+    D14
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : NTC.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : NTC_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -47,19 +31,45 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
     D14
     D15
     D16
     D17
     D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NTC_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
     D19
     D20
     D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NTC_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D23
 *************************************************************
 
 *************************************************************
 Generating : Top Solder
-      File : NTC.GTS
+      File : NTC_Soldermask_Top.gbr
 
     Adding Layer      : Top Solder
 
@@ -69,32 +79,21 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
+    D11
+    D12
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : NTC.GM1
+Generating : Bottom Solder
+      File : NTC_Soldermask_Bot.gbr
 
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : NTC.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -102,34 +101,56 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D22
-    D23
+    D11
+    D12
     D24
     D25
     D26
     D27
     D28
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : NTC.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
     D29
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 1
+      File : NTC_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D22
+    D30
+    D31
+*************************************************************
+
+*************************************************************
 Generating : Profile
-      File : NTC.GM
+      File : NTC_Profile.gbr
 
 
 Used DCodes :
     D32
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : NTC_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : NTC_PTH_Drill.gbr
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
 *************************************************************
 

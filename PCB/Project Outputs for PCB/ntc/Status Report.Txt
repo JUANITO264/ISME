@@ -1,19 +1,21 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
-   Generated File[NTC.GTO]
-   Generated File[NTC.GTS]
-   Generated File[NTC.GTL]
-   Generated File[NTC.GBL]
-   Generated File[NTC.GBS]
-   Generated File[NTC.GBO]
-   Generated File[NTC.GM1]
-   Generated File[NTC.GM]
+   Generated File[NTC_Copper_Signal_Top.gbr]
+   Generated File[NTC_Copper_Signal_Bot.gbr]
+   Generated File[NTC_Legend_Top.gbr]
+   Generated File[NTC_Legend_Bot.gbr]
+   Generated File[NTC_Soldermask_Top.gbr]
+   Generated File[NTC_Soldermask_Bot.gbr]
+   Generated File[NTC_Mechanical_1.gbr]
+   Generated File[NTC_Profile.gbr]
+   Generated File[NTC_NPTH_Drill.gbr]
+   Generated File[NTC_PTH_Drill.gbr]
    Generated File[NTC.EXTREP]
    Generated File[NTC.REP]
 
 
-Files Generated   : 10
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 11:16:02 p. m. On 23/11/2023
+Finished Output Generation At 7:45:49 p. m. On 24/11/2023

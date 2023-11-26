@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=AGND Vout GND +5 NewDesignator=YSC-131A
+Change Component Designator: OldDesignator=GND Vout GND V- NewDesignator=MO_out
+Change Component Designator: OldDesignator=VCC GND VDD out NewDesignator=P_galga
+Change Component Designator: OldDesignator=Vin GND S- S+ NewDesignator=MO-in

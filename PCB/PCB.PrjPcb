@@ -303,278 +303,302 @@ DocumentPath=Project Outputs for PCB\NTC.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for PCB\NTC.GBS
+DocumentPath=Project Outputs for PCB\NTC.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for PCB\NTC.GD1
+DocumentPath=Project Outputs for PCB\NTC.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for PCB\NTC.GG1
+DocumentPath=Project Outputs for PCB\NTC.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for PCB\NTC.GM
+DocumentPath=Project Outputs for PCB\NTC.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for PCB\NTC.GM1
+DocumentPath=Project Outputs for PCB\NTC.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for PCB\NTC.GTL
+DocumentPath=Project Outputs for PCB\NTC.GM
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for PCB\NTC.GTO
+DocumentPath=Project Outputs for PCB\NTC.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for PCB\NTC.GTS
+DocumentPath=Project Outputs for PCB\NTC.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for PCB\NTC.REP
+DocumentPath=Project Outputs for PCB\NTC.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for PCB\NTC_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PCB\NTC.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for PCB\NTC_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PCB\NTC.REP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for PCB\NTC_Legend_Bot.gbr
+DocumentPath=Project Outputs for PCB\NTC_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for PCB\NTC_Legend_Top.gbr
+DocumentPath=Project Outputs for PCB\NTC_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for PCB\NTC_Mechanical_1.gbr
+DocumentPath=Project Outputs for PCB\NTC_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for PCB\NTC_NPTH_Drill.gbr
+DocumentPath=Project Outputs for PCB\NTC_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for PCB\NTC_Profile.gbr
+DocumentPath=Project Outputs for PCB\NTC_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for PCB\NTC_PTH_Drill.gbr
+DocumentPath=Project Outputs for PCB\NTC_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for PCB\NTC_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PCB\NTC_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for PCB\NTC_Soldermask_Top.gbr
+DocumentPath=Project Outputs for PCB\NTC_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for MICRO.csv
+DocumentPath=Project Outputs for PCB\NTC_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for MICRO.txt
+DocumentPath=Project Outputs for PCB\NTC_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for NTC.csv
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for MICRO.csv
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for NTC.csv
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for MICRO.txt
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for NTC.txt
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for NTC.csv
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for NTC.txt
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for NTC.csv
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for PS.csv
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for NTC.txt
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for PS.txt
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for NTC.txt
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for STRAIN.csv
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for PS.csv
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for STRAIN.txt
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for PS.txt
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for PCB\PS.EXTREP
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for STRAIN.csv
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for PCB\PS.GBL
+DocumentPath=Project Outputs for PCB\Pick Place\Pick Place for STRAIN.txt
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for PCB\PS.GBO
+DocumentPath=Project Outputs for PCB\PS.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for PCB\PS.GBS
+DocumentPath=Project Outputs for PCB\PS.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for PCB\PS.GM
+DocumentPath=Project Outputs for PCB\PS.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for PCB\PS.GM1
+DocumentPath=Project Outputs for PCB\PS.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for PCB\PS.GTL
+DocumentPath=Project Outputs for PCB\PS.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for PCB\PS.GTO
+DocumentPath=Project Outputs for PCB\PS.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for PCB\PS.GTS
+DocumentPath=Project Outputs for PCB\PS.GM
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for PCB\PS.REP
+DocumentPath=Project Outputs for PCB\PS.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for PCB\PS_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PCB\PS.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for PCB\PS_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PCB\PS.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for PCB\PS_Legend_Bot.gbr
+DocumentPath=Project Outputs for PCB\PS.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for PCB\PS_Legend_Top.gbr
+DocumentPath=Project Outputs for PCB\PS.REP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for PCB\PS_Mechanical_1.gbr
+DocumentPath=Project Outputs for PCB\PS_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for PCB\PS_NPTH_Drill.gbr
+DocumentPath=Project Outputs for PCB\PS_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for PCB\PS_Profile.gbr
+DocumentPath=Project Outputs for PCB\PS_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for PCB\PS_PTH_Drill.gbr
+DocumentPath=Project Outputs for PCB\PS_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for PCB\PS_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PCB\PS_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for PCB\PS_Soldermask_Top.gbr
+DocumentPath=Project Outputs for PCB\PS_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for PCB\STRAIN.EXTREP
+DocumentPath=Project Outputs for PCB\PS_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for PCB\STRAIN.GBL
+DocumentPath=Project Outputs for PCB\PS_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for PCB\STRAIN.GBO
+DocumentPath=Project Outputs for PCB\PS_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for PCB\STRAIN.GBR1
+DocumentPath=Project Outputs for PCB\PS_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for PCB\STRAIN.GBR2
+DocumentPath=Project Outputs for PCB\STRAIN.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for PCB\STRAIN.GBS
+DocumentPath=Project Outputs for PCB\STRAIN.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for PCB\STRAIN.GM
+DocumentPath=Project Outputs for PCB\STRAIN.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for PCB\STRAIN.GM1
+DocumentPath=Project Outputs for PCB\STRAIN.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for PCB\STRAIN.GTL
+DocumentPath=Project Outputs for PCB\STRAIN.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for PCB\STRAIN.GTO
+DocumentPath=Project Outputs for PCB\STRAIN.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for PCB\STRAIN.GTS
+DocumentPath=Project Outputs for PCB\STRAIN.GM
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for PCB\STRAIN.REP
+DocumentPath=Project Outputs for PCB\STRAIN.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for PCB\STRAIN_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for PCB\STRAIN.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for PCB\STRAIN_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for PCB\STRAIN.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for PCB\STRAIN_Legend_Bot.gbr
+DocumentPath=Project Outputs for PCB\STRAIN.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for PCB\STRAIN_Legend_Top.gbr
+DocumentPath=Project Outputs for PCB\STRAIN.REP
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for PCB\STRAIN_Mechanical_1.gbr
+DocumentPath=Project Outputs for PCB\STRAIN_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for PCB\STRAIN_Profile.gbr
+DocumentPath=Project Outputs for PCB\STRAIN_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for PCB\STRAIN_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for PCB\STRAIN_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument94]
+DocumentPath=Project Outputs for PCB\STRAIN_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for PCB\STRAIN_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for PCB\STRAIN_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for PCB\STRAIN_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for PCB\STRAIN_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for PCB\STRAIN_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
 DocumentPath=Project Outputs for PCB\STRAIN_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -915,7 +939,7 @@ OutputDefault10=0
 Configuration10_Name1=ForceUpdateSettings
 Configuration10_Item1=False
 Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=BoardID=YMRJLTOB|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\MICRO.PcbDoc
+Configuration10_Item2=BoardID=NRAOIBIU|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Different|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=C:\Users\Scort\OneDrive\Documentos\santiago cortes tovar\trabajos\sexto semestre\ISME\Proyecto\ISME\PCB\NTC.PcbDoc
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=
